@@ -24,16 +24,3 @@ in the arduino IDE.
 * The OS version needs to be a Windows 10 and above
 
 
-## Installation
-
-
-
-
-## Version History
-
-* 0.2
-    * Various bug fixes and optimizations
-    * Progression and commited changes have been 
-     made.
-* 0.1
-    * Initial Release
